@@ -1,4 +1,4 @@
-To run this project, you will need either a Simulator on a Mac or an iPhone. This project will not run on android and cannot be converted into an APK without catastrophic failure. It is for these reasons that I have made my iPhone XR the primary device for both testing and demos regarding this project. (You agreed to this condition on the proposal)
+To run this project, you will need either a Simulator on a Mac or an iPhone. This project will not run on android and cannot be converted into an APK without catastrophic failure.
 
 To start the app, simply open the app and you will be presented with two buttons, one for started the AR page and another for help and tips. 
 
