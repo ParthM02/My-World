@@ -12,8 +12,6 @@ import RealityKit
 
 //Main AR Page
 
-// MARK: - Kill Me
-
 //Constructor Class
 class WorldViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, ARSCNViewDelegate{
     
